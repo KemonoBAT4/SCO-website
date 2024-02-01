@@ -1,0 +1,25 @@
+
+.container {
+    width: 100%;
+    height: 50px;
+    background-color: red;
+    display: flex;
+    flex-direction: row;
+}
+
+.links-container, .search-container {
+    width: 25%;
+    height: 100%;
+    background-color: green;
+}
+
+.title-container {
+    width: 30%;
+    height: 100%;
+}
+
+.img-container, .profile-container {
+    width: 10%;
+    height: 100%;
+    background-color: blue;
+}
