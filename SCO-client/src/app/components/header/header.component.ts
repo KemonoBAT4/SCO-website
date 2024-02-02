@@ -11,7 +11,10 @@ export class HeaderComponent implements OnInit {
 
   //data: string = `ciao come va ${1}`;
 
+  banner_path: string = "";
+
   public ngOnInit(): void {
     //console.log(this.data);
+
   }
 }
